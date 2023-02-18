@@ -13,7 +13,7 @@ I'm currently active in contributing as Student at Politeknik Elektronika Negeri
 ### Tech Stack
 <a href="#"><img align="left" alt="Dart" title="Dart" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" /></a>
 <a href="#"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://res.cloudinary.com/dsabkkzly/image/upload/v1676724813/flutter_ylfpih.png" /></a>
-<a href="#"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" /></a>
+<a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" /></a>
 <br>
 
 ### Reach me on
