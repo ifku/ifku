@@ -21,3 +21,11 @@ I'm currently active in contributing as Student at Politeknik Elektronika Negeri
 - <a href="https://www.instagram.com/ifkuuuu/">Instagram</a>
 - <a href="https://ifkusyoba.netlify.app/">Personal Website</a>
 - <a href="https://linkedin.com/in/ifkusyoba">LinkedIn</a>
+
+### Github Statistics
+<p>
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api/?username=sensze&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sensze" />
+  </a>
+</p>
