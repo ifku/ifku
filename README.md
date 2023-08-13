@@ -11,10 +11,11 @@ I'm currently active in contributing as Student at Politeknik Elektronika Negeri
 - 🤡 Fun fact: 80% Introvert 20% Extraordinary 
 
 ### Tech Stack
-<a href="#"><img align="left" alt="Dart" title="Dart" width="30px" src="https://www.php.net/images/logos/new-php-logo.svg" /></a>
+<a href="#"><img align="left" alt="PHP" title="PHP" width="30px" src="https://www.php.net/images/logos/new-php-logo.svg" /></a>
 <a href="#"><img align="left" alt="Dart" title="Dart" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dart-logo-icon.svg/2048px-Dart-logo-icon.svg.png" /></a>
 <a href="#"><img align="left" alt="Flutter" title="Flutter" width="21px" src="https://res.cloudinary.com/dsabkkzly/image/upload/v1676724813/flutter_ylfpih.png" /></a>
 <a href="#"><img align="left" alt="Kotlin" title="Kotlin" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png" /></a>
+<a href="#"><img align="left" alt="Jetpack Compose" title="Jetpack Compose" width="25px" src="https://github.com/sensze/sensze/assets/89537572/580d10c7-48b8-41a7-a0af-b288478369fe" /></a>
 <br>
 
 ### Reach me on
