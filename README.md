@@ -5,7 +5,7 @@ An independent Software Engineer who loves to create and share projects about mo
 I'm currently active in contributing as Student at Politeknik Elektronika Negeri Surabaya to pursue my college.
 
 - 🎓 I’m currently study at Politeknik Elektronika Negeri Surabaya
-- 📚 I’m currently learning and curious about Backend and Mobile Development
+- 📚 I’m currently learning and curious about Flutter, Native Android (Kotlin), and Jetpack Compose
 - 💬 Feel free to ask me, especially about Flutter or Programming
 - 📧 How to reach me: ifkusyobaa@gmail.com
 - 🤡 Fun fact: 80% Introvert 20% Extraordinary 
