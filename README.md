@@ -2,8 +2,6 @@
 
 An independent Software Engineer who loves to create and share projects about mobile development, especially Flutter! I've enjoyed Dart, Kotlin and make it the main language in creating a project.
 
-I'm currently active in contributing as Student at Politeknik Elektronika Negeri Surabaya to pursue my college.
-
 - 🎓 I’m currently study at Politeknik Elektronika Negeri Surabaya
 - 📚 I’m currently learning and curious about Flutter, Native Android (Kotlin), and Jetpack Compose
 - 💬 Feel free to ask me, especially about Flutter or Programming
